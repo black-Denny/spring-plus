@@ -1,0 +1,4 @@
+jwt:
+  secret:
+    key: Zm9vYmFyZm9vYmFyZm9vYmFyZm9vYmFyZm9vYmFyZm9vYmE=
+  expiration-ms: 3600000
